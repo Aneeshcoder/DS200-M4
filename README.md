@@ -24,5 +24,6 @@ This dataset contains district-wise and year-wise records from the Mahatma Gandh
 
 **References:**
 
-[Dataset] Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). Open Government Data (OGD) Platform India. Published 13/09/2023, Updated 03/10/2025. Available at: [https://www.data.gov.in/resource/district-wise-mgnrega-data-glance](https://www.data.gov.in/resource/district-wise-mgnrega-data-glance).  
+[Dataset] Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). Open Government Data (OGD) Platform India. Published 13/09/2023, Updated 03/10/2025.  
+Available at: [https://www.data.gov.in/resource/district-wise-mgnrega-data-glance](https://www.data.gov.in/resource/district-wise-mgnrega-data-glance).  
 Released under the [National Data Sharing and Accessibility Policy (NDSAP)](https://data.gov.in/sites/default/files/NDSAP.pdf?_gl=1*1l5aedz*_ga*MjE0MDExMDExNy4xNzU5NTY3MDg1*_ga_2NLK0N9J6V*czE3NTk1NjcwODQkbzEkZzEkdDE3NTk1NjcxNzAkajYwJGwwJGgw).
