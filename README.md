@@ -20,6 +20,17 @@ This dataset contains district-wise and year-wise records from the Mahatma Gandh
     - `Funds Released`: Monetary allocation or expenditure
     - Other columns may include gender, social category, project types
 
+### Observations and Analysis
+
+''Persondays_of_Central_Liability_so_far'' represents the cumulative number of persondays for which the central government is liable for wage payments under the MGNREGA scheme up to a certain point in time.
+
+- **Plot I**: This line plot shows the general trend that high Persondays generated generally equivalent to high data variation.
+- **Plot II**: This scatter plot helps to see the almost linear correlation between the funds spent and the amount of employment generated.
+- **Plot III**: This box plot shows that Hisar district generated maximum Persondays while the Faridabad district generated the minimum.
+- **Plot IV**: This correlation matrix shows the dependence between various numerical features.
+- **Plot V**: This line plot shows an increase in the average wage rate over the years with a sudden surge from 2024-25 to 2025-26.
+- **Plot VI**: This histogram plot shows the average days of employement provided per household lies around 20 days.
+
 ---
 
 **References:**
