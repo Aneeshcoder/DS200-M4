@@ -20,23 +20,9 @@ This dataset contains district-wise and year-wise records from the Mahatma Gandh
     - `Funds Released`: Monetary allocation or expenditure
     - Other columns may include gender, social category, project types
 
-### Usage
-
-- Statistical and analytical research on rural employment trends
-- Visualization of scheme performance across districts and years
-- Policy evaluation and academic studies
-
-### Example Row
-
-| State      | District   | Year | Households | Employment Provided | Persondays Generated | Funds Released |
-|------------|------------|------|------------|--------------------|---------------------|---------------|
-| StateName  | DistrictA  | 2023 | 1200       | 900                | 15000               | 3,000,000     |
-
-### Notes
-
-- The dataset is suitable for large-scale data analysis and visualization in Python, R, MATLAB, or other numerical tools.
-- See the header row for a full list of fields and examine initial rows to understand data layout.
-
 ---
 
-For questions or feedback, contact the data author or refer to the official MGNREGA documentation.
+**References:**
+
+[Dataset] Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). Open Government Data (OGD) Platform India. Published 13/09/2023, Updated 03/10/2025. Available at: [https://www.data.gov.in/resource/district-wise-mgnrega-data-glance](https://www.data.gov.in/resource/district-wise-mgnrega-data-glance).  
+Released under the [National Data Sharing and Accessibility Policy (NDSAP)](https://data.gov.in/sites/default/files/NDSAP.pdf?_gl=1*1l5aedz*_ga*MjE0MDExMDExNy4xNzU5NTY3MDg1*_ga_2NLK0N9J6V*czE3NTk1NjcwODQkbzEkZzEkdDE3NTk1NjcxNzAkajYwJGwwJGgw).
